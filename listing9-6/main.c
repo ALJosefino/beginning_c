@@ -1,8 +1,24 @@
-#include <stdio.h>
-#include <stdlib.h>
 
-int main()
-{
-    printf("Hello world!\n");
-    return 0;
-}
+    #include <stdio.h>
+
+        int main()
+
+            {
+
+                int x;
+
+                    x=0;
+
+                    while(x<10)
+
+                    {
+
+                        puts("Sore shoulder surgery");
+
+                        x=x+1;
+
+                    }
+
+                    return(0);
+
+            }
