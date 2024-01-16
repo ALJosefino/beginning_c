@@ -1,8 +1,21 @@
-#include <stdio.h>
-#include <stdlib.h>
 
-int main()
-{
-    printf("Hello world!\n");
-    return 0;
-}
+
+    #include <stdio.h>
+
+        int main()
+
+            {
+
+                int x;
+
+                for(x=0;x=10;x=x+1)
+
+                {
+
+                puts("What are you lookin' at?");
+
+                }
+
+                return(0);
+
+                }
