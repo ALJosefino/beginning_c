@@ -30,7 +30,7 @@
 
                     /* Display prompt */
 
-                    void prompt()
+                    void prompt();
 
                 {
 
